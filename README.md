@@ -1,1 +1,1 @@
-This is my first portofolio website, I create using HTML, CSS, and JavaScript
+This is my first portofolio website for my study, I create using HTML, CSS, and JavaScript
